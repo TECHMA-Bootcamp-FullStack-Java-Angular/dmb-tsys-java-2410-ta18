@@ -22,32 +22,32 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 | [ Exercise 8 ](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/src/com/tmbs/exercises/Exercise_08.java) 
 | [ Exercise 9 ](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/src/com/tmbs/exercises/Exercise_09.java)  
 
-
+# Craear las tablas mediente JDBC 
 
 ## Ejercicio 1
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img1.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img01.png?raw=true)
 ***
 ## Ejercicio 2
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img02.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img02.png?raw=true)
 ***
 ## Ejercicio 3
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img03.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img03.png?raw=true)
 ***
 ## Ejercicio 4
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img04.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img04.png?raw=true)
 ***
 ## Ejercicio 5
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img05.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img05.png?raw=true)
 ***
 ## Ejercicio 6
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img06.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img06.png?raw=true)
 ***
 ## Ejercicio 7
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img07.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img07.png?raw=true)
 ***
 ## Ejercicio 8
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img08.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img8.png?raw=true)
 ***
 ## Ejercicio 9
-![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img09.png?raw=true)
+![imagen](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2410-ta18/blob/main/docs/img9.png?raw=true)
 ***
