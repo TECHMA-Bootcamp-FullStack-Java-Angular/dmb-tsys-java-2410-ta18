@@ -42,7 +42,6 @@ public class Exercise_02 {
 				+ "('45678901', 'Empleado 4', 'Apellido 4', 4),\r\n"
 				+ "('56789012', 'Empleado 5', 'Apellido 5', 5);\r\n");
 		
-		
 		dbc.getValues("departamentos");
 		dbc.getValues("empleados");
 		

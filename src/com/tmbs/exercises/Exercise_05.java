@@ -29,15 +29,13 @@ public class Exercise_05 {
 				+ "    ON DELETE CASCADE ON UPDATE CASCADE\r\n"
 				+ ")");
 		
-		
 		 dbc.insertData( "despachos","(capacidad)","(10), (8), (12), (15), (20)");
 		 
-		 dbc.insertData( "director", "(dni, nombre_apellidos, despacho)", "('12345678', 'Juan Pérez', 1),\r\n"
-		 		+ "('87654321', 'María López', 2),\r\n"
-		 		+ "('23456789', 'Pedro Ramírez', 1),\r\n"
-		 		+ "('98765432', 'Luisa Martínez', 3),\r\n"
-		 		+ "('34567890', 'Ana Sánchez', 4)");
-		 
+		 dbc.insertData( "director", "(dni, nombre_apellidos, despacho)", "('12345678', 'Juan Pï¿½rez', 1),\r\n"
+		 		+ "('87654321', 'Marï¿½a Lï¿½pez', 2),\r\n"
+		 		+ "('23456789', 'Pedro Ramï¿½rez', 1),\r\n"
+		 		+ "('98765432', 'Luisa Martï¿½nez', 3),\r\n"
+		 		+ "('34567890', 'Ana Sï¿½nchez', 4)");
 		 
 		 dbc.getValues("despachos");
 		 dbc.getValues("director");

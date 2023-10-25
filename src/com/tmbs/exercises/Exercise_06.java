@@ -55,8 +55,7 @@ public class Exercise_06 {
 		 		+ "  (3, 'P3', 200),\r\n"
 		 		+ "  (4, 'P4', 120),\r\n"
 		 		+ "  (5, 'P5', 180)");
-		 
-		 
+		  
 		 dbc.getValues("piezas");
 		 dbc.getValues("proveedores");
 		 dbc.getValues("suministra");

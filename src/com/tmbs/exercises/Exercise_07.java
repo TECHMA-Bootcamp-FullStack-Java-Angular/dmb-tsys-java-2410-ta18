@@ -39,11 +39,11 @@ public static void run() {
 				+ "        ON UPDATE CASCADE ON DELETE CASCADE\r\n"
 				+ ")");
 		
-		 dbc.insertData( "cientificos","(DNI, nomApels)","('12345678', 'Juan Pérez'),\r\n"
-		 		+ "  ('87654321', 'María López'),\r\n"
-		 		+ "  ('23456789', 'Pedro Ramírez'),\r\n"
-		 		+ "  ('98765432', 'Luisa Martínez'),\r\n"
-		 		+ "  ('34567890', 'Ana Sánchez')");
+		 dbc.insertData( "cientificos","(DNI, nomApels)","('12345678', 'Juan Pï¿½rez'),\r\n"
+		 		+ "  ('87654321', 'Marï¿½a Lï¿½pez'),\r\n"
+		 		+ "  ('23456789', 'Pedro Ramï¿½rez'),\r\n"
+		 		+ "  ('98765432', 'Luisa Martï¿½nez'),\r\n"
+		 		+ "  ('34567890', 'Ana Sï¿½nchez')");
 		 
 		 dbc.insertData( "proyecto","(id, nombre, horas)"," ('P1', 'Proyecto A', 100),\r\n"
 		 		+ "  ('P2', 'Proyecto B', 150),\r\n"
@@ -56,8 +56,7 @@ public static void run() {
 		 		+ "  ('23456789', 'P3'),\r\n"
 		 		+ "  ('98765432', 'P4'),\r\n"
 		 		+ "  ('34567890', 'P5')");
-		 
-		 
+		  
 		 dbc.getValues("cientificos");
 		 dbc.getValues("proyecto");
 		 dbc.getValues("asignado_a");

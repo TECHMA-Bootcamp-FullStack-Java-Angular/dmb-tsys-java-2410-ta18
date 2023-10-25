@@ -28,17 +28,13 @@ public class Exercise_03 {
 				+ "    FOREIGN KEY (almacen) REFERENCES almacen(codigo)\r\n"
 				+ "    ON DELETE CASCADE ON UPDATE CASCADE\r\n"
 				+ ")");
-		
-		
-		// dbc.insertData( "tabla", "(columnas)" , "(campos)");
-		
-		
+			
 		 dbc.insertData( "almacen", "(lugar, capacidad)" , 
-				 "('Almacén 1', 5000),\r\n"
-		 		+ "    ('Almacén 2', 7500),\r\n"
-		 		+ "    ('Almacén 3', 6000),\r\n"
-		 		+ "    ('Almacén 4', 3000),\r\n"
-		 		+ "    ('Almacén 5', 9000)");
+				 "('Almacï¿½n 1', 5000),\r\n"
+		 		+ "    ('Almacï¿½n 2', 7500),\r\n"
+		 		+ "    ('Almacï¿½n 3', 6000),\r\n"
+		 		+ "    ('Almacï¿½n 4', 3000),\r\n"
+		 		+ "    ('Almacï¿½n 5', 9000)");
 		 
 		 dbc.insertData( "caja", "(num_referencia, contenido, valor, almacen)" , " ('Caja Y', 'Contenido de caja Y', 1000, 1),\r\n"
 		 		+ "    ('Caja A', 'Contenido de caja A', 1500, 2),\r\n"
@@ -48,7 +44,6 @@ public class Exercise_03 {
 		 		+ "    ('Caja E', 'Contenido de caja E', 6000, 4),\r\n"
 		 		+ "    ('Caja F', 'Contenido de caja F', 9000, 3),\r\n"
 		 		+ "    ('Caja G', 'Contenido de caja G', 7500, 5);");
-		 
 		 
 		 dbc.getValues("almacen");
 		 dbc.getValues("caja");

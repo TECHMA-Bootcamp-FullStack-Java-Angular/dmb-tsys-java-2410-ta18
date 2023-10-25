@@ -50,16 +50,16 @@ public class Exercise_09 {
 				+ ")");
 		
 		 dbc.insertData( "facultad","(nombre)"," ('Facultad de Ciencias'),\r\n"
-		 		+ "  ('Facultad de Ingeniería'),\r\n"
+		 		+ "  ('Facultad de Ingenierï¿½a'),\r\n"
 		 		+ "  ('Facultad de Medicina'),\r\n"
 		 		+ "  ('Facultad de Artes'),\r\n"
 		 		+ "  ('Facultad de Derecho')");
 		 
-		 dbc.insertData( "investigador","(dni, nombre_apellidos, facultad, Odni_profesor)","('12345678', 'Juan Pérez', 1, 'P12345678'),\r\n"
-		 		+ "  ('87654321', 'María López', 2, 'P87654321'),\r\n"
-		 		+ "  ('23456789', 'Pedro Ramírez', 3, 'P23456789'),\r\n"
-		 		+ "  ('98765432', 'Luisa Martínez', 4, 'P98765432'),\r\n"
-		 		+ "  ('34567890', 'Ana Sánchez', 5, 'P34567890')");
+		 dbc.insertData( "investigador","(dni, nombre_apellidos, facultad, Odni_profesor)","('12345678', 'Juan Pï¿½rez', 1, 'P12345678'),\r\n"
+		 		+ "  ('87654321', 'Marï¿½a Lï¿½pez', 2, 'P87654321'),\r\n"
+		 		+ "  ('23456789', 'Pedro Ramï¿½rez', 3, 'P23456789'),\r\n"
+		 		+ "  ('98765432', 'Luisa Martï¿½nez', 4, 'P98765432'),\r\n"
+		 		+ "  ('34567890', 'Ana Sï¿½nchez', 5, 'P34567890')");
 		 
 		 dbc.insertData( "equipo","(num_serie, nombre, facultad, dni_profesor)","('E101', 'Equipo 1', 1, 'P12345678'),\r\n"
 		 		+ "  ('E102', 'Equipo 2', 2, 'P87654321'),\r\n"
@@ -72,7 +72,6 @@ public class Exercise_09 {
 		 		+ "  ('23456789', 'E103', '2023-10-25 11:00:00', '2023-11-25 14:00:00', 'P23456789'),\r\n"
 		 		+ "  ('98765432', 'E104', '2023-10-25 12:00:00', '2023-11-25 15:00:00', 'P98765432'),\r\n"
 		 		+ "  ('34567890', 'E105', '2023-10-25 13:00:00', '2023-11-25 16:00:00', 'P34567890');");
-		 
 		 
 		 dbc.getValues("facultad");
 		 dbc.getValues("investigador");

@@ -40,7 +40,6 @@ public class Exercise_04 {
 		 		+ "  (104, 'Sala D', 4),\r\n"
 		 		+ "  (105, 'Sala E', 5);");
 		 
-		 
 		 dbc.getValues("peliculas");
 		 dbc.getValues("salas");
 		 
